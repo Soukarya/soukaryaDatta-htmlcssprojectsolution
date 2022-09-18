@@ -74,27 +74,27 @@ footer {
 
 @keyframes example {
     0% {
-        background-image: url("./Animation/ani1.jpg");
+        background-image: url("../Images/Animation/ani1.jpg");
     }
     20% {
-        background-image: url("./Animation/ani2.png");
+        background-image: url("../Images/Animation/ani2.png");
     }
     40% {
-        background-image: url("./Animation/ani3.jpg");
+        background-image: url("../Images/Animation/ani3.jpg");
     }
     60% {
-        background-image: url("./Animation/ani4.jpg");
+        background-image: url("../Images/Animation/ani4.jpg");
     }
     80% {
-        background-image: url("./Animation/ani5.jpg");
+        background-image: url("../Images/Animation/ani5.jpg");
     }
     100% {
-        background-image: url("./Animation/ani1.jpg");
+        background-image: url("../Images/Animation/ani1.jpg");
     }
 }
 
-#image-animation {
-    background-image: url("./Animation/ani1.jpg");
+#animation {
+    background-image: url("../Images/Animation/ani1.jpg");
     height: 500px;
     object-fit: fill;
     border: 2px solid steelblue;
@@ -138,35 +138,35 @@ footer {
 }
 
 #one {
-    background-image: url("./Products/c1.jpg");
+    background-image: url("../Images/Products/c1.jpg");
 }
 
 #two {
-    background-image: url("./Products/c2.jpg");
+    background-image: url("../Images/Products/c2.jpg");
 }
 
 #three {
-    background-image: url("./Products/c3.jpg");
+    background-image: url("../Images/Products/c3.jpg");
 }
 
 #four {
-    background-image: url("./Products/c4.jpg");
+    background-image: url("../Images/Products/c4.jpg");
 }
 
 #five {
-    background-image: url("./Products/d1.jpg");
+    background-image: url("../Images/Products/d1.jpg");
 }
 
 #six {
-    background-image: url("./Products/d2.jpg");
+    background-image: url("../Images/Products/d2.jpg");
 }
 
 #seven {
-    background-image: url("./Products/d3.jpg");
+    background-image: url("../Images/Products/d3.jpg");
 }
 
 #eight {
-    background-image: url("./Products/d4.png");
+    background-image: url("../Images/Products/d4.png");
 }
 
 .add {

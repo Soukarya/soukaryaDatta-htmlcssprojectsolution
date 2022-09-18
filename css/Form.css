@@ -39,13 +39,13 @@ aside img {
     width: 20%;
 }
 
-#btns {
+#buttons {
     position: absolute;
     bottom: 3%;
     left: 50%;
 }
 
-#btns button {
+#buttons button {
     color: white;
     background-color: purple;
     border-radius: 5px;
